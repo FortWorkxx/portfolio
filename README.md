@@ -2,6 +2,7 @@
 ok, with all this processed, let's say i want to use a drag and drop A.I tool, can you give me a prompt that will instruct the assistant to build portfolio site, how to build it ( that is , using html, css, and java script) and the type of port folio site to build or the features of the portfolio site(Immersive, futuristic, and high tech oriented ). just so i can see how it would turn out.
 # MASTER PROMPT: BUILD AN IMMERSIVE FUTURISTIC WEB DEVELOPER PORTFOLIO
 
+
 ## PROJECT OVERVIEW
 
 Act as a world-class senior UI/UX designer, creative frontend developer, motion designer and interactive web experience architect.
