@@ -382,3 +382,9 @@ Think like an award-winning digital agency.
 Do not settle for a generic portfolio template.
 
 Build an experience that makes visitors immediately recognise the creativity, ambition and technical potential of the person behind the website.
+
+## Running the website locally
+
+Open `index.html` in a modern browser, or run a static server from this directory, for example `python3 -m http.server 8000`, and visit `http://localhost:8000`. No build step or dependencies are required. Google Fonts require an internet connection; system fallbacks are provided.
+
+The projects are illustrative concepts, not completed work, and intentionally have no live-project or source-code links. Replace them with real projects and links when available. The contact form validates locally but does not send messages until a backend or form service is integrated. Replace the placeholder email and add real social links before publishing.
